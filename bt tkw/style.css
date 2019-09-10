@@ -38,6 +38,7 @@ body
 .left2 ul
 {
 	margin: 0;
+	list-style-type: none;
 }
 .left3
 {

@@ -1,0 +1,63 @@
+body
+{
+	margin: 0;
+}
+.banner
+{
+	width: 100%;
+	height: 10px;
+	background-color: #550000;
+    font-size: 50px;
+}
+.menu
+{
+	width: 100%;
+	height: 300px;
+	background-color: #550000;
+}
+.menuleft
+{
+	width: 20%;
+	height: 500px;
+	background-color: #FF9933;
+	float: left;
+}
+.left1
+{
+	width: 100%;
+	height: 100px;
+	background-color: #FF9933;
+	font-size: 28px;
+}
+.left2
+{
+	width: 100%;
+	height: 300px;
+	background-color: #FFFFFF;
+}
+.left2 ul
+{
+	margin: 0;
+}
+.left3
+{
+	width: 100%;
+	height: 100px;
+	background-color: #FF9933;
+}
+.content
+{
+	width: 80%;
+	height: 500px;
+	background-color: red;
+	float: right;
+	font-size: 40px;
+}
+.footer
+{
+	width: 100%;
+	height: 200px;
+	background-color: green;
+	font-size: 40px;
+	clear: both;
+}

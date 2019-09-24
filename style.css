@@ -1,0 +1,21 @@
+#main{
+	width: 100%;
+
+}
+#banner{
+	margin: auto;
+	width: 900px;
+	height: 330px;
+
+}
+#banner:hover {
+	opacity: 0.5;
+	transition: 3s;
+
+}
+#nut{
+	width: 900px;
+	margin: 0px auto;
+	text-align: center;
+	position: absolute;
+}
